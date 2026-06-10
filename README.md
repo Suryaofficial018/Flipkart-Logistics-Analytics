@@ -75,8 +75,8 @@ Flipkart-Logistics-Analytics/
 6. Improve Tier 3 city logistics — 643 returns
 
 ## 🔗 ABOUT ME
+- Surya M
 - LinkedIn: linkedin.com/in/surya-m-37609a3b9
 - GitHub: github.com/Suryaofficial018
-- Surya M
 📧 suryaofficial018@gmail.com
 🎓 MBA in Finance & Business Analytics — Hindustan Institute of Technology, Anna University
