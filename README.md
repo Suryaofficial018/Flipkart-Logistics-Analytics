@@ -74,6 +74,9 @@ Flipkart-Logistics-Analytics/
 5. Promote Same-Day delivery — only 1.4 avg days
 6. Improve Tier 3 city logistics — 643 returns
 
-## 🔗 Connect With Me
+## 🔗 ABOUT ME
 - LinkedIn: linkedin.com/in/surya-m-37609a3b9
 - GitHub: github.com/Suryaofficial018
+- Surya M
+📧 suryaofficial018@gmail.com
+🎓 MBA in Finance & Business Analytics — Hindustan Institute of Technology, Anna University
